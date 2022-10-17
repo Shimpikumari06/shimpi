@@ -1,0 +1,23 @@
+Title:- Embedded system programming using tinkercad
+
+Definition of Embedded system - 
+Basic definition is it is a combo of Hardware(HW) and software(SW) that is defined to do some specific task.
+Embedded systems, also known as embedded computers, are small-form-factor computers that power specific tasks. 
+They may function as standalone devices or as part of larger systems, hence the term "embedded," and are often used in applications with size, weight, power, and cost (SWaP-C) constraints.
+
+Like most computers, embedded systems are a combination of hardware and software, usually:
+
+Microprocessors or microcontrollers
+Graphics processing units (GPUs)
+Volatile and non-volatile memory
+Input/output communication interfaces and ports
+System and application code
+Power supplies
+
+Tool Usage :- Tinkercad
+Tinkercad is a free-of-charge, online 3D modeling program that runs in a web browser.
+Since it became available in 2011 it has become a popular platform for creating models for 3D printing 
+as well as an entry-level introduction to constructive solid geometry in schools. It is also used to create a small embedded circuit.
+
+
+
